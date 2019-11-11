@@ -27,3 +27,6 @@ These are the the seven continents:
 4. Europe
 5. Africa
 6. Antarctica
+
+#My-Linh's Travel Blog
+The last place I travelled to was the United States (home) I love it because my partner lives there. 
